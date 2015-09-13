@@ -2,5 +2,7 @@ build
 .idea/
 shadowsocks.xcodeproj/project.xcworkspace/
 shadowsocks.xcodeproj/xcuserdata/
+zxing-objc/ZXingObjC.xcodeproj/xcuserdata/
 .DS_STORE
+**/._*
 *.dmg
